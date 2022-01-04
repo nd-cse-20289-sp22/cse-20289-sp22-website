@@ -6,7 +6,7 @@
       - date:           Wed 01/12
         topics:         Git
         assignment:     Reading 00
-      
+
       - date:           Fri 01/14
         topics:         Files
 
@@ -178,7 +178,7 @@
         topics:         TCP/IP, URLs, Sockets
 
       - date:           Fri 04/08
-        topics:         HTTP Client
+        topics:         HTTP Client / Server
 
       - date:           Sat 04/09
         topics:         Detecting Duplicates
@@ -215,6 +215,9 @@
 - name:     "Exam 03"
   days:
       - date:           Mon 04/25
+        topics:         CGI
+
+      - date:           Tue 04/26
         topics:         Review
 
       - date:           Tue 05/04
