@@ -14,7 +14,7 @@ for student in csv.DictReader(open('static/csv/students.csv', 'r')):
 
 CONFLICTS = dict(
     (ta['github'], ta['conflicts'])
-    for ta in yaml.safe_load(open('static/yaml/ta.yaml'))
+    for ta in yaml.safe_load(open('static/yaml/tas.yaml'))
     if ta.get('conflicts')
 )
 
