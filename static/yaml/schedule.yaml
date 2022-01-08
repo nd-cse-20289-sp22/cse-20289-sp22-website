@@ -17,6 +17,9 @@
 
       - date:           Fri 01/14
         topics:         Files
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1_W8KFJnXolqdFeED-Bi7h8huy5DBeWairuC6g5YVEbU/edit?usp=sharing
 
 - name:     "Unit 01: Bourne Shell"
 
