@@ -2,10 +2,18 @@
   days:
       - date:           Mon 01/10
         topics:         Syllabus, Unix Shell
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1pRYmubih7wo4JKqsspynKljRbetFRB6qTOuqn2iOg6M/edit?usp=sharing
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1u4MpmNn5qGs-IrH7Yazxi0THoEGXw6ZsDVAMyjEX8gg/edit?usp=sharing
 
       - date:           Wed 01/12
         topics:         Git
         assignment:     Reading 00
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1vNaR4wuYo492ohf1Cn690J_FO3J3XCfD4V3nT2erECE/edit?usp=sharing
 
       - date:           Fri 01/14
         topics:         Files
