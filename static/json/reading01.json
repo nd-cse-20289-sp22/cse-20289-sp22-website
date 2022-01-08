@@ -81,5 +81,21 @@
     "q11": {
         "type": "blank",
         "question": "<p>Suppose you run the <code>bc</code> command</b>\n\n<ol>\n\n<li>We could suspend the process with the keystroke: CTRL-____.</li>\n\n<li>We could resume the suspended process with the command: ____.</li>\n\n<li>We could indicate the end of input with the keystroke: CTRL-____.</li>\n\n<li>If the <code>bc</code> process was still running, we could terminate\nthe process using the keystroke: CTRL-____.</li>\n\n<li>If the <code>bc</code> process was still running, and we knew its PID,\nwe could terminate the process using the command: ____ PID.</li>\n\n<li>If the <code>bc</code> process was still running, and we did not know\nits PID, we could terminate the process using the command: ____ bc.</li>\n"
+    },
+    "q12": {
+        "type": "multiple",
+        "question": "\n<strong>\nWhich of the following statements about the course is true (select all that apply)?\n</strong>\n",
+        "responses": {
+            "readings": "Students cannot drop any readings.",
+            "homeworks": "Students cannot drop any homework assignments.",
+            "exams": "There are two exams in this class.",
+            "participation": "Students are expected to attend class regularly and on-time.",
+            "officehours": "There are both in-person and online office hours available to students.",
+            "deadlines": "There are no deadlines in this class.",
+            "respectful": "Students are expected to be respectful of their fellow classmates and the instructional staff.",
+            "video": "There is no video capture for this class.",
+            "consulting": "Students may consult online references or copy from resources if properly cited.",
+            "copying": "Students may consult or copy from solutions found online or from other students."
+        }
     }
 }

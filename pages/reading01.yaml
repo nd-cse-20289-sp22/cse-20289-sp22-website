@@ -241,9 +241,12 @@ body:       |
               ],
               "q10": [
                   "800"
-              ]
+              ],
               "q11": [
                   "b"
+              ],
+              "q12": [
+                  "homeworks"
               ]
           }
 
@@ -259,17 +262,18 @@ body:       |
 
           $ ../.scripts/check.py                # Check reading01 quiz
           Checking reading01 quiz ...
-               Q01 1.00
+               Q01 0.90
                Q02 0.10
                Q03 0.10
                Q04 0.10
                Q05 0.10
-               Q06 0.60
+               Q06 0.40
                Q07 0.20
                Q08 0.20
                Q09 0.20
                Q10 0.60
-               Q11 0.80
+               Q11 0.60
+               Q12 0.50
              Score 4.00 / 4.00
             Status Success
 
