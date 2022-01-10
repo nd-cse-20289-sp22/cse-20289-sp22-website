@@ -53,6 +53,11 @@
 - name:     Bridget Goodwine
   netid:    bgoodwin
   github:   bgoodwine
+  conflicts:
+    - cgoodwi2
+    - chackl
+    - amazure2
+    - ckuczun
 
 - name:     Simran Moolchandaney
   netid:    smoolcha
