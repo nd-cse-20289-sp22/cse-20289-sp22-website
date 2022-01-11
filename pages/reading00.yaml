@@ -301,7 +301,7 @@ body:       |
 
                 :::bash
                 # Add the following to your config (replace $NETID with your netid)
-                $ nano ~/.ssh/config
+                $ vim ~/.ssh/config
                 Host github.com
                         User git
                         Hostname github.com
@@ -310,6 +310,14 @@ body:       |
 
         Once this is done, you should be able to do [git] operations without a password.
         You will need to accept the host key the first time by typing in "yes".
+        </div>
+
+        <div class="alert alert-info" markdown="1">
+        #### <i class="fa fa-code"> Text Editor
+
+        Any time you see references to `vim` in example commands, remember that
+        you can use any text editor such as `nano` or `emacs` instead.
+
         </div>
 
     2. **Clone** your [git] repository to your local machine (or the student machines):
@@ -334,7 +342,7 @@ body:       |
 
             $ cd cse-20289-sp22-assignments-$USERNAME   # Go into the assignments directory
 
-            $ nano README.md                            # Edit the README.md file
+            $ vim README.md                             # Edit the README.md file
 
             $ git add README.md                         # Mark the file for recording
 
