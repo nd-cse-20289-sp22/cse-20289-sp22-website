@@ -313,7 +313,7 @@ body:       |
         </div>
 
         <div class="alert alert-info" markdown="1">
-        #### <i class="fa fa-code"> Text Editor
+        #### <i class="fa fa-code"></i> Text Editor
 
         Any time you see references to `vim` in example commands, remember that
         you can use any text editor such as `nano` or `emacs` instead.
