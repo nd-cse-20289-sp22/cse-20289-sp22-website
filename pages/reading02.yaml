@@ -179,7 +179,7 @@ body:       |
   [Reading 01]:     reading01.html
   [Reading 02 TA List]: reading02_tas.html
 
-  [The Linux Command Line]:     http://linuxcommand.org/tlcl.php
+  [The Linux Command Line]:     https://linuxcommand.org/tlcl.php
   [Unix]:                       https://en.wikipedia.org/wiki/Unix
   [Unix Shell]:                 https://en.wikipedia.org/wiki/Unix_shell
   [Git]:                        https://git-scm.com/
@@ -188,5 +188,5 @@ body:       |
   [Shell Scripting Tutorial]:   https://www.shellscript.sh/
   [networking]:                 https://en.wikipedia.org/wiki/Computer_network
   [tmux]:                       https://github.com/tmux/tmux/wiki
-  [Writing Shell Scripts]:      http://linuxcommand.org/lc3_writing_shell_scripts.php
+  [Writing Shell Scripts]:      https://linuxcommand.org/lc3_writing_shell_scripts.php
   [Shell Scripting Tutorial]:   https://www.shellscript.sh/
