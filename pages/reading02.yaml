@@ -73,7 +73,7 @@ body:       |
 
   - [A tmux Primer](https://danielmiessler.com/study/tmux/)
   - [A Quick and Easy Guide to tmux](http://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/)
-  - [A Gentle Introduction to tmux](https://hackernoon.com/a-gentle-introduction-to-tmux-8d784c404340)
+  - [A Gentle Introduction to tmux](https://medium.com/hackernoon/a-gentle-introduction-to-tmux-8d784c404340)
 
   Although not required, it is **highly recommended** that you learn how to use
   [tmux].
