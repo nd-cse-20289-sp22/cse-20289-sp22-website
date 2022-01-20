@@ -13,6 +13,8 @@
 - name:     Joshua Cepeda
   netid:    jcepeda
   github:   centipeda
+  conflicts:
+    - cvalenc3
 
 - name:     Michael Lee
   netid:    mlee43
