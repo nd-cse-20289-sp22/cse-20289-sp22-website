@@ -81,6 +81,9 @@
       - date:           Mon 01/31
         topics:         Regular Expressions
         assignment:     Reading 03
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1gktU2CFg_O-QveVU1xlJBlV4jwckJZHuiDgdUA7Ge1Q/edit?usp=sharing
 
       - date:           Wed 02/02
         topics:         Filters
