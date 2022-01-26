@@ -70,6 +70,9 @@
 
       - date:           Wed 01/26
         topics:         Control Flow, Command Line Arguments
+        items:
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=94b619af-42ab-4416-ae54-ae2901388c89
 
       - date:           Fri 01/28
         topics:         Pipelines
