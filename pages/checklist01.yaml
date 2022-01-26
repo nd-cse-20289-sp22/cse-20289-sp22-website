@@ -393,6 +393,10 @@ body:       |
     3. [tar](http://man7.org/linux/man-pages/man1/tar.1.html)
 
         Extract or compress tarballs.
+    
+    4. [seq](http://man7.org/linux/man-pages/man1/seq.1.html)
+
+        Produce sequence of numbers.
 
     <div class="alert alert-success" markdown="1">
     #### <i class="fa fa-question"></i> Sample Questions
