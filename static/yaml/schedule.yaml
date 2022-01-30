@@ -76,6 +76,9 @@
 
       - date:           Fri 01/28
         topics:         Pipelines
+        items:
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f12f415f-b05c-4ba3-9beb-ae2b013a447c
 
       - date:           Sat 01/29
         topics:         Meeting the Oracle
