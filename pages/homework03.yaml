@@ -357,9 +357,20 @@ body:       |
       47996
       47997
 
-      # Show all Zip Codes in Notre Dame, Indiana
-      $ ./zipcode.sh -s Indiana -c "Notre Dame"
-      46556
+      # Show all Zip Codes in South Bend, Indiana
+      $ ./zipcode.sh -s Indiana -c "South Bend"
+      46601
+      46613
+      46614
+      46615
+      46616
+      46617
+      46619
+      46626
+      46628
+      46635
+      46637
+      46699
 
   #### Hints
 
@@ -429,8 +440,8 @@ body:       |
          Usage                                    ... Success
          Default                                  ... Success
          Indiana                                  ... Success
-         Notre Dame, Indiana                      ... Success
          South Bend, Indiana                      ... Success
+         Indianapolis, Indiana                    ... Success
          California                               ... Success
          Orange, California                       ... Success
          Los Angeles, California                  ... Success
