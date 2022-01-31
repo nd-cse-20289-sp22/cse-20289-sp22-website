@@ -92,6 +92,8 @@
         items:
           - name:       Slides
             link:       https://docs.google.com/presentation/d/1gktU2CFg_O-QveVU1xlJBlV4jwckJZHuiDgdUA7Ge1Q/edit?usp=sharing
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cb9b8594-0f89-4d66-88bc-ae2e0138c0c9
 
       - date:           Wed 02/02
         topics:         Filters
