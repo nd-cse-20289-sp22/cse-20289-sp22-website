@@ -5,6 +5,8 @@ internal:   []
 external:   []
 body:       |
 
+    ## Overview
+
     Here is a general outline of the **key** concepts and commands (arranged by
     topic) that you should know for **Exam 01**.
 
@@ -39,6 +41,33 @@ body:       |
     there may be questions that show up on the exam that are not shown below).
 
     </div>
+    
+    <hr>
+
+    ## Logistics
+
+    **Exam 01** will take place during our normal lecture section on
+    **Wednesday, February 9** from **12:50 PM - 1:40 PM** in **101 DeBartolo
+    Hall**.
+
+    As noted above, a portion of the exam with be a **Google Form Quiz**, while
+    the remaining component with require **coding** and submitting work to your
+    **assignments** [GitHub] repository.
+
+    Students will be permitted acccess any material in their textbooks, notes,
+    assighments, and the Internet.  
+
+    <div class="alert alert-danger"  markdown="1">
+    #### <i class="fa fa-warning"></i> Honor Code Violations
+    
+    Although students are allowed to use their computers and the Internet
+    during the exam, students **may not communicate with others** or **solicit
+    answers from others**.  Students caught sharing solutions or violating any
+    portion of the honor code will **receive a zero on the exam**.
+
+    </div>
+
+    [GitHub]: https://github.com
 
     <hr>
 
