@@ -117,10 +117,10 @@ body:       |
 
           :::bash
           $ curl -sL https://yld.me/raw/hoUY | ...
-          Leonardo:blue:plowshare
-          Donatello:purple:plowshare
-          Raphael:red:plowshare
-          Michelangelo:orange:plowshare
+          Leonardo:plowshare:blue
+          Donatello:plowshare:purple
+          Raphael:plowshare:red
+          Michelangelo:plowshare:orange
 
   4. List only the turtles whose names end in `lo`.
 
