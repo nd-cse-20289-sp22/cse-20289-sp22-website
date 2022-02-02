@@ -370,6 +370,14 @@ body:       |
       46637
       46699
 
+  <div class="alert alert-warning" markdown="1">
+  #### <i class="fa fa-code"></i> Unique Zip Codes
+  
+  Make sure that the **zipcodes** printed by `zipcode.sh` are **sorted** and
+  **unique**.
+
+  </div>
+
   #### Hints
 
   Here is a skeleton you can use to start your `zipcode.sh` script:
