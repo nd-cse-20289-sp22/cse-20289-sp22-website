@@ -354,8 +354,6 @@ body:       |
       ...
       47994
       47995
-      47996
-      47997
 
       # Show all Zip Codes in South Bend, Indiana
       $ ./zipcode.sh -s Indiana -c "South Bend"
