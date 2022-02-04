@@ -232,12 +232,13 @@ body:       |
   - You will need to expand the `case` statement to parse command line
     arguments.
 
-  - You will need to use `if` statements to guard or control which could gets
+  - You will need to use `if` statements to guard or control which code gets
     executed.
 
   - You will probably want to use [curl] to fetch the weather information.
 
-  - You will probably want to use [sed] and [grep] and maybe [awk].
+  - You will probably want to use [sed] and [grep] and maybe [awk] to extract
+    information.
 
   - You will need to trim leading and trailing whitespace for the forecast.
 
@@ -411,7 +412,8 @@ body:       |
   - The general flow of your script should be to parse arguments and then to
     execute different [pipelines].
 
-  - You will probably want to use [sed] and [grep] and maybe [awk].
+  - You will probably want to use [sed] and [grep] and maybe [awk] to extract
+    information.
 
   - You will probably want to create different [functions] and use them as
     stages in your [pipelines].
@@ -542,7 +544,7 @@ body:       |
 
   Remember that you can always **forgo** this Guru Point for **two extra days**
   to do the homework.  That is, if you need an extension, you can simply skip
-  the Guru Point and you will automatically have until Monday to complete the
+  the Guru Point and you will automatically have until Tuesday to complete the
   assignment for full credit.
 
   Just leave a note on your **Pull Request** of your intentions.
