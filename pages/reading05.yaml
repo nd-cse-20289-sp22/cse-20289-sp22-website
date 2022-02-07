@@ -155,7 +155,7 @@ body:       |
        exists.py                                ... Success
        exists.py *                              ... Success
        exists.py * ASDF                         ... Success
-       exists.py /etc/*                         ... Success
+       exists.py /lib/*                         ... Success
          Score 1.00 / 1.00
         Status Success
 
@@ -205,7 +205,7 @@ body:       |
        exists.py                                ... Success
        exists.py *                              ... Success
        exists.py * ASDF                         ... Success
-       exists.py /etc/*                         ... Success
+       exists.py /lib/*                         ... Success
          Score 1.00 / 1.00
         Status Success
 
