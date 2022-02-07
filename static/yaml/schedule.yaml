@@ -100,6 +100,9 @@
 
       - date:           Fri 02/04
         topics:         Filters
+        items:
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d9a45629-dd17-48f7-bef7-ae32013bd767
 
       - date:           Sun 02/06
         topics:         Weathering with Zipcodes
@@ -112,6 +115,8 @@
         items:
           - name:       Slides
             link:       https://docs.google.com/presentation/d/14Mt4eZh3dIR8XMDwLxyEEXKIsC_FQRt0Zira9TtjhdI/edit?usp=sharing
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=484a6124-71f1-4be5-ae41-ae35013ef0fc
           - name:       Checklist 01
             link:       checklist01.html
 
