@@ -15,8 +15,8 @@
         "type": "multiple",
         "question": "\n<p>Given the following Python script, <tt>env.py</tt>:</p>\n\n<pre>\n#!/usr/bin/env python3\n\nimport os\n\nfor key, value in sorted(os.environ.items()):\n    print('{}={}'.format(key, value))\n</pre>\n\n<p>Which of the following statements are true (select all that apply)?</p>\n",
         "responses": {
-            "dict": "The <tt>os.environ</tt> is a dictionary object.",
-            "list": "The <tt>os.environ</tt> is a list object.",
+            "dict": "The <tt>os.environ</tt> is a dictionary-like object.",
+            "list": "The <tt>os.environ</tt> is a list-like object.",
             "svars": "This script prints all the variables inside the script.",
             "evars": "This script prints all environmental variables from the shell.",
             "nofmt": "Instead of <tt>print('{}={}'.format(key, value))</tt>, we could do <tt>print(key + '=' + value)</tt>.",
