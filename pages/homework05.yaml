@@ -910,6 +910,7 @@ body:       |
   Your `homework04` folder should only contain the following files:
 
   - `Makefile`
+  - `answers.json`
   - `demographics.py`
   - `reddit.py`
 
