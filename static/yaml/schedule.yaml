@@ -142,6 +142,8 @@
         items:
           - name:       Slides
             link:       https://docs.google.com/presentation/d/1ZRsdTorbvxKrFgf77Kl55jTwGPJzgSHu0ZOfYoT2fag/edit?usp=sharing
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7e59b6a0-a2fb-425c-a9ce-ae3c0139f61b
 
       - date:           Wed 02/16
         topics:         Strings, Dictionaries
