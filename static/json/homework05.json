@@ -1,0 +1,10 @@
+{
+    "q01": {
+        "type": "blank",
+        "question": "\n<p>Use your <tt>reddit.py</tt> with the <b>URL</b>\n<tt>https://yld.me/raw/ffjX</tt> to answer the following questions:</p>\n\n<ol>\n<li>The first post has how many votes? ____</li>\n<li>The third post has the following shortened URL: <tt>https://is.gd/</tt>____</li>\n<li>The third post has the following title when limited to <tt>10</tt> characters: ____</li>\n<li>The last post when sorting by title has how many votes? ____</li>\n</ol>\n"
+    },
+    "q02": {
+        "type": "blank",
+        "question": "\n<p>Use your <tt>demographics.py</tt> to answer the following questions:</p>\n\n<ol>\n<li>How many male students are in the class of <tt>2024</tt>? ____</li>\n<li>What percentage of the <tt>2024</tt> class is female? ____ %</li>\n<li>Which class year had the lowest percentage of Caucasians? ____</li>\n<li>Which class year had the highest percentage of Asians? ____</li>\n<li>How many Hispanic students were in the class of <tt>2020</tt>? ____</li>\n<li>How many Black or African American students were in the class of <tt>2022</tt>? ____</li>\n</ol>\n"
+    }
+}
