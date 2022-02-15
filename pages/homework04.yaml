@@ -60,6 +60,15 @@ body:       |
 
   You are now ready to work on the activities below.
 
+  <div class="alert alert-success" markdown="1">
+  #### <i class="fa fa-question"></i> Frequently Asked Questions
+
+  <div class="text-center">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSDMQqY6xFsdbLH9NU37IW-KVuk2T3MuBGPM8ch3sPhOK4m5tckanf5To0pXPa64cOnUkFn87dRDx5F/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+  </div>
+
+  </div>
+
   ## Activity 1: RPN (5 Points)
 
   <img src="http://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/HP_35_Calculator.jpg/180px-HP_35_Calculator.jpg" class="pull-right img-responsive">
