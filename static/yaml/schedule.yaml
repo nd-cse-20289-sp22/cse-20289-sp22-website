@@ -147,6 +147,9 @@
 
       - date:           Wed 02/16
         topics:         Strings, Dictionaries
+        items:
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ddadf226-08fc-479b-ae9e-ae3e0140056d
 
       - date:           Fri 02/18
         topics:         I/O, Processes
