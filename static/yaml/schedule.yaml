@@ -153,6 +153,9 @@
 
       - date:           Fri 02/18
         topics:         I/O, Processes
+        items:
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=363aa540-b27a-4c08-9a46-ae40013ba545
 
       - date:           Sat 02/19
         topics:         RPN, Unique
