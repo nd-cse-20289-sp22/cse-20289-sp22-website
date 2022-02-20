@@ -188,6 +188,9 @@
       - date:           Mon 02/28
         topics:         Iterators, Generators
         assignment:     Reading 07
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1cyU9aw65XFPUQGuTVJIi4924Z4CISzgoE3F9N8qOkcI/edit?usp=sharing
 
       - date:           Wed 03/02
         topics:         Parallel Computing
