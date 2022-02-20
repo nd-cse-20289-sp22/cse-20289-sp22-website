@@ -175,6 +175,9 @@
 
       - date:           Fri 02/25
         topics:         Functional Programming
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1_hJ8AXldMhm-NYII3VvwMKd5hMI5AnAkG8Vmf31md7k/edit?usp=sharing
 
       - date:           Sat 02/26
         topics:         Reddit and CSE Demographics
