@@ -152,7 +152,7 @@
             link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ddadf226-08fc-479b-ae9e-ae3e0140056d
 
       - date:           Fri 02/18
-        topics:         I/O, Processes
+        topics:         I/O, Processes, Requests, Regular Expressions
         items:
           - name:       Panopto
             link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=363aa540-b27a-4c08-9a46-ae40013ba545
@@ -164,7 +164,7 @@
 - name:     "Data Processing"
   days:
       - date:           Mon 02/21
-        topics:         Requests, Regular Expressions
+        topics:         CSV
         assignment:     Reading 06
         items:
           - name:       Slides
@@ -173,7 +173,7 @@
             link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e2f50f47-32a4-46a8-8932-ae430137b49e
 
       - date:           Wed 02/23
-        topics:         CSV, JSON
+        topics:         JSON
 
       - date:           Fri 02/25
         topics:         Functional Programming
