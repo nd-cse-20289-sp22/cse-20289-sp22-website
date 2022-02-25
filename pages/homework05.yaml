@@ -652,11 +652,13 @@ body:       |
           >>> load_demo_data('https://yld.me/raw/ilG').keys()
           dict_keys(['2013', '2014', '2015', '2016', '2017', '2018', '2019'])
 
-          >>> load_demo_data('https://yld.me/raw/ilG')['2013']
-          {'M': 1, 'B': 2, 'F': 1, 'TOTAL': 2}
+          >>> load_demo_data('https://yld.me/raw/ilG')['2013'] == \
+                  {'M': 1, 'B': 2, 'F': 1, 'TOTAL': 2}
+          True
 
-          >>> load_demo_data('https://yld.me/raw/ilG')['2019']
-          {'M': 1, 'U': 2, 'F': 1, 'TOTAL': 2}
+          >>> load_demo_data('https://yld.me/raw/ilG')['2019'] == \
+                  {'M': 1, 'U': 2, 'F': 1, 'TOTAL': 2}
+          True
           '''
           return {}
 
