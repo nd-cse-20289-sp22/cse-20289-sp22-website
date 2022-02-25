@@ -57,7 +57,7 @@ body:       |
 
   <div class="alert alert-success" markdown="1">
   #### <i class="fa fa-question"></i> Frequently Asked Questions
-  
+
   <div class="text-center">
   <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSmAYMdoM_wQmGQhThKAmy_9jeA1fRQqkmYZsh3rhUVDIMj3juAUoXc7AzGkM-4ltWJsZt_CpZAjIUc/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
   </div>
@@ -302,8 +302,8 @@ body:       |
       def load_reddit_data(url):
           ''' Load reddit data from specified URL into dictionary
 
-          >>> len(load_reddit_data('https://reddit.com/r/nba/.json'))
-          27
+          >>> len(load_reddit_data('https://reddit.com/r/nba/.json')) >= 25
+          True
 
           >>> load_reddit_data('linux')[0]['data']['subreddit']
           'linux'
@@ -824,7 +824,7 @@ body:       |
 
   [Ramzi]:  http://www3.nd.edu/~rbualuan/personal.html
   [University of Notre Dame]:   https://www.nd.edu
-  
+
   ## Activity 3: Quiz (1 Point)
 
   Once you have completed all the activities above, you are to complete the
