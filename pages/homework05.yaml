@@ -691,8 +691,8 @@ body:       |
           >>> data  = load_demo_data('https://yld.me/raw/ilG')
           >>> years = sorted(data.keys())
           >>> print_demo_fields(data, years, GENDERS, False)
-            M       1       1       1       1       1       1       1
-            F       1       1       1       1       1       1       1
+             M       1       1       1       1       1       1       1
+             F       1       1       1       1       1       1       1
           '''
           print()
 
