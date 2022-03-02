@@ -682,7 +682,7 @@ body:       |
   version in your current directory, and add `-D2` to use your MacBook's GPU.
   Here is an example usage:
 
-          ./hashcat -a 3 -m 0 -1 ?l?d -o passwords.7 -D2 --potfile-disable [PATH_TO_YOUR_HASHES.TXT] ?1?1?1?1?1?1?1
+          ./hashcat -a 3 -m 0 -1 '?l?d' -o passwords.7 -D2 --potfile-disable [PATH_TO_YOUR_HASHES.TXT] '?1?1?1?1?1?1?1'
 
   7. Reach out to Simon Rodriguez on Slack if you encounter any issues.
 
