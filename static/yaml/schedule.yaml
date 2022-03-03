@@ -210,7 +210,10 @@
             link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=37cf7964-bbff-484c-bca8-ae4c01396f78
 
       - date:           Fri 03/04
-        topics:         TBD
+        topics:         Server-Side Programming
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1p8S3tL9rkdrKbHfGZyBExO1myumTZibFus-f7A3Nzrc/edit?usp=sharing
 
       - date:           Sat 03/05
         topics:         Hulk Smash
