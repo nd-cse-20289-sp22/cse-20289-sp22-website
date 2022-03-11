@@ -228,6 +228,8 @@
       - date:           Mon 03/14
         assignment:     Reading 08
         items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1bEZS3WhP7Z214RBB3Gzcu4UGrKYTRMiBxHKhAv9Ln9M/edit?usp=sharing
           - name:       Checklist 02
             link:       checklist02.html
 
