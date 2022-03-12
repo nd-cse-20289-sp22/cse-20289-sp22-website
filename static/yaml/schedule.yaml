@@ -239,6 +239,9 @@
 
       - date:           Fri 03/18
         topics:         Compiling and Building
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1BieAJzOrt6jjRqbfF_2lSz16QXUoTadcSBW_70pFuZg/edit?usp=sharing
 
 - name:     "Unit 03: C"
 
