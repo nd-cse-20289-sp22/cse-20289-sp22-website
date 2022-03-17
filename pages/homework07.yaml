@@ -792,20 +792,14 @@ body:       |
     </div>
 
     <div class="col-xs-6 col-md-3">
-      <a href="https://getfedora.org/" class="thumbnail">
-        <img src="https://fedoraproject.org/w/uploads/6/65/Fedora_vertical.png">
-      </a>
-    </div>
-
-    <div class="col-xs-6 col-md-3">
       <a href="https://www.linuxmint.com/" class="thumbnail">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/483px-Linux_Mint_logo_without_wordmark.svg.png">
       </a>
     </div>
 
     <div class="col-xs-6 col-md-3">
-      <a href="https://www.debian.org/" class="thumbnail">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Debian-OpenLogo.svg/363px-Debian-OpenLogo.svg.png">
+      <a href="https://getfedora.org/" class="thumbnail">
+        <img src="https://fedoraproject.org/w/uploads/6/65/Fedora_vertical.png">
       </a>
     </div>
 
@@ -814,6 +808,9 @@ body:       |
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Archlinux-vert-dark.svg/320px-Archlinux-vert-dark.svg.png">
       </a>
     </div>
+  </div>
+
+  <div class="row">
 
     <div class="col-xs-6 col-md-3">
       <a href="https://pop.system76.com/" class="thumbnail">
@@ -828,8 +825,14 @@ body:       |
     </div>
 
     <div class="col-xs-6 col-md-3">
+      <a href="https://neon.kde.org/" class="thumbnail">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Neon-logo.svg/480px-Neon-logo.svg.png">
+      </a>
+    </div>
+
+    <div class="col-xs-6 col-md-3">
       <a href="https://manjaro.org/" class="thumbnail">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Manjaro_logo_text.svg">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Manjaro-logo.svg/480px-Manjaro-logo.svg.png">
       </a>
     </div>
   </div>
