@@ -264,6 +264,9 @@
 
       - date:           Fri 03/25
         topics:         Memory Allocation
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1qlKfT4F5xtSVjhppao_gwn-rd_GO0g0-fqLDaktFvT0/edit?usp=sharing
 
       - date:           Sat 03/26
         topics:         C-String Library
