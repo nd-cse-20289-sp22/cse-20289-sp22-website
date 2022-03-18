@@ -244,6 +244,8 @@
         items:
           - name:       Slides
             link:       https://docs.google.com/presentation/d/1BieAJzOrt6jjRqbfF_2lSz16QXUoTadcSBW_70pFuZg/edit?usp=sharing
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ef3cc093-bdc0-4636-bfd1-ae5c01284e4c
 
 - name:     "Unit 03: C"
 
