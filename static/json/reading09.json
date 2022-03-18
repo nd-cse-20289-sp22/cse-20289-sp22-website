@@ -6,7 +6,7 @@
             "0": "<tt>while (i <= n && scanf(\"%d\", numbers[i]) != EOF)</tt>",
             "1": "<tt>while (i < n && scanf(\"%d\", numbers[i]) == EOF)</tt>",
             "2": "<tt>while (i < n || scanf(\"%d\", numbers[i]) != EOF)</tt>",
-            "3": "<tt>while (i < n && scanf(\"%d\", (int *)numbers[i] != EOF)</tt>",
+            "3": "<tt>while (i < n && scanf(\"%d\", (int *)numbers[i]) != EOF)</tt>",
             "4": "<tt>while (i < n && scanf(\"%d\", &numbers[i]) != EOF)</tt>",
             "5": "<tt>while (i < n && scanf(\"%d\", *numbers[i]) != EOF)</tt>"
         }
