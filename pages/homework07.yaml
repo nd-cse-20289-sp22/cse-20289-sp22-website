@@ -754,10 +754,17 @@ body:       |
 
   [JSON]: https://json.org
 
-  ## Guru Point: Linux (2 Points)
+  ## Guru Point: Linux (3 Points)
 
-  There are two extra credit opportunities: install a [Linux] distribution or
-  utilize [docker] containers.  You may do one or both for extra credit.
+  There are three extra credit opportunities:
+
+  1. Install a [Linux] distribution.
+  
+  2. Utilize [docker] containers.  
+
+  3. Test drive [Kelpup].
+
+  You may do one, two, or all three for extra credit.
 
   <div class="alert alert-success" markdown="1">
   #### <i class="fa fa-calendar"></i> Self-Service Extension
@@ -883,6 +890,33 @@ body:       |
 
   </div>
 
+  ### Kelpup (1 Point)
+
+  For extra credit, you are to test drive, that is try out, the [Kelpup] Linux
+  distribution created by one of your TAs, Bridget Goodwine, as part of [CSE
+  40677 Open Source Software Distribution].  This means you will need to
+  download the **ISO** file from the website, burn it to a **USB** drive, and
+  then boot it up on your own computer.
+
+  Once it has been loaded, play around with it and take notes of any issues or
+  problems you encountered.
+  
+  <div class="alert alert-info" markdown="1">
+  #### <i class="fa fa-check"></i> Verification
+
+  To get credit for this Guru Point, you must file an **issue** on the [Kelpup]
+  project [issues] page:
+
+      https://github.com/kelpup/woof-CE/issues
+
+  In this **issue**, report a bug or make a feature request.  Likewise, attach
+  a photo of your computer running [Kelpup].
+
+  You have up until **one week after** this assignment is due to verify your
+  Guru Point.
+
+  </div>
+
   [Linux]:          https://www.kernel.org/
   [Distrowatch]:    http://distrowatch.com/
   [Virtualbox]:     https://www.virtualbox.org/
@@ -890,7 +924,9 @@ body:       |
   [Raspberry Pi]:   https://www.raspberrypi.org/
   [Docker]:         https://www.docker.com/
   [open source]:    https://opensource.org/
-
+  [Kelpup]: https://kelpup.github.io/Home/
+  [CSE 40677 Open Source Software Distribution]: https://www3.nd.edu/~pbui/teaching/cse.40677.sp22/
+  [issues]:         https://github.com/kelpup/woof-CE/issues
 
   ## Submission
 
