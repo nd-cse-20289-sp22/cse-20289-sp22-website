@@ -179,7 +179,12 @@ body:       |
 
   For this task, you will need to add [rules] for building the [static library]
   `libstr.a` and the [shared library] `libstr.so`.  Besure to have a **recipe**
-  for any *intermediate* [object] files that both libraries require.
+  for any *intermediate* [object] files that both libraries require as shown in
+  the [DAG] below:
+
+  <div class="thumbnail">
+    <img src="static/img/homework07-makefile.png" class="img-responsive">
+  </div>
 
   <div class="alert alert-info" markdown="1">
   #### <i class="fa fa-cogs"></i> Makefile Variables
@@ -189,6 +194,8 @@ body:       |
   using [automatic variables] such as `$@` and `$<` as well.
 
   </div>
+
+  [DAG]: https://en.wikipedia.org/wiki/Directed_acyclic_graph
 
   Once you have a working `Makefile`, you should be able to run the following commands:
 
