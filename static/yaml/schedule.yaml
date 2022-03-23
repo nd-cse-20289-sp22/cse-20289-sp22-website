@@ -265,6 +265,8 @@
         items:
           - name:       Slides
             link:       https://docs.google.com/presentation/d/1MmQtdKRPhV_thOemBkGRWpQYWtd7laXL5JA8bsDwi0U/edit?usp=sharing
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e002123d-54da-4c75-8fb0-ae61012a3b3f
 
       - date:           Fri 03/25
         topics:         Memory Allocation
