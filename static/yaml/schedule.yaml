@@ -273,6 +273,8 @@
         items:
           - name:       Slides
             link:       https://docs.google.com/presentation/d/1qlKfT4F5xtSVjhppao_gwn-rd_GO0g0-fqLDaktFvT0/edit?usp=sharing
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1960103e-fb08-4156-adfb-ae630129bf49
 
       - date:           Sat 03/26
         topics:         C-String Library
