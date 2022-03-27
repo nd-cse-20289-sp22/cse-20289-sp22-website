@@ -331,9 +331,15 @@
       - date:           Mon 04/11
         topics:         Processes
         assignment:     Reading 12
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/10uVaIDEBqunj5A63TRk12CrToIkUKtdjwHkHIL52WV4/edit?usp=sharing
 
       - date:           Wed 04/13
         topics:         Signals
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/10uVaIDEBqunj5A63TRk12CrToIkUKtdjwHkHIL52WV4/edit?usp=sharing
 
       - date:           Fri 04/15
         topics:         Easter
@@ -346,9 +352,15 @@
       - date:           Wed 04/20
         topics:         Concurrent HTTP Server
         assignment:     Reading 13
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/10uVaIDEBqunj5A63TRk12CrToIkUKtdjwHkHIL52WV4/edit?usp=sharing
 
       - date:           Fri 04/22
         topics:         VPS
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1aJ5PpSoseiD6fyB3nNLueB_zonJ-pjbEl9dRq7BASME/edit?usp=sharing
 
       - date:           Sat 04/23
         topics:         "Thor's Hammer"
@@ -357,10 +369,10 @@
 - name:     "Exam 03"
   days:
       - date:           Mon 04/25
-        topics:         CGI
+        topics:         Review
 
       - date:           Tue 04/26
-        topics:         Review
+        topics:         Bloons
 
       - date:           Tue 05/04
         items:
