@@ -369,11 +369,13 @@
 - name:     "Exam 03"
   days:
       - date:           Mon 04/25
-        topics:         Review
+        items:
+          - name:       Checklist 03
+            link:       checklist03.html
 
       - date:           Tue 04/26
         topics:         Bloons
 
-      - date:           Tue 05/04
+      - date:           Wed 05/04
         items:
           - name:       Exam 03
