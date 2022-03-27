@@ -297,12 +297,18 @@
 
       - date:           Fri 04/01
         topics:         I/O
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1Z217f_NGgyPY3ZjnNFOwaiszSaAEHQeSv_HbRmVbGbc/edit?usp=sharing
 
 - name:     "Files and Sockets"
   days:
       - date:           Mon 04/04
         topics:         Files, Directories
         assignment:     Reading 11
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1Z217f_NGgyPY3ZjnNFOwaiszSaAEHQeSv_HbRmVbGbc/edit?usp=sharing
 
       - date:           Wed 04/06
         topics:         TCP/IP, URLs, Sockets
