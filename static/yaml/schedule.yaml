@@ -312,9 +312,15 @@
 
       - date:           Wed 04/06
         topics:         TCP/IP, URLs, Sockets
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1HxjYbz0DTVJqhLyaAxXgk1dG8cMM-1saaW1ssgBTRnk/edit?usp=sharing
 
       - date:           Fri 04/08
         topics:         HTTP Client / Server
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1HxjYbz0DTVJqhLyaAxXgk1dG8cMM-1saaW1ssgBTRnk/edit?usp=sharing
 
       - date:           Sat 04/09
         topics:         Detecting Duplicates
