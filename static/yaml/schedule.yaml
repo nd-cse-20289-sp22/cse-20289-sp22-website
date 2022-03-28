@@ -288,6 +288,8 @@
         items:
           - name:       Slides
             link:       https://docs.google.com/presentation/d/19lpqtDfe_Sm_MZQHBuGlMc85KsSH-9-1VUlzaWYMG9s/edit?usp=sharing
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=831b8d02-a1d3-4a7a-b2ba-ae66012813a8
 
       - date:           Wed 03/30
         topics:         Linked Data Structures
