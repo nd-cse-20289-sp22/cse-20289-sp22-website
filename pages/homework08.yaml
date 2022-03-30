@@ -577,7 +577,7 @@ body:       |
       - The `buckets` field is an [array] of `Pair` structures.
       </div>
 
-  2. `Table *         table_delete(Table *m)`
+  2. `Table *         table_delete(Table *t)`
 
       > This function deallocates the given `Table` along with its `buckets` of
       `Pair` structures.
@@ -588,7 +588,7 @@ body:       |
 
       </div>
 
-  3. `void          table_insert(Table *m, const char *key, const Value value, Type type)`
+  3. `void          table_insert(Table *t, const char *key, const Value value, Type type)`
 
       > This function inserts a new `Pair` into the `Table` if the `key` does
       not exist yet.  If it does, then pre-existing `Pair`'s `value` is
@@ -602,7 +602,7 @@ body:       |
 
       </div>
 
-  4. `Value *       table_search(Table *m, const char *key)`
+  4. `Value *       table_search(Table *t, const char *key)`
 
       > This function searches the `Table` for an `Pair` with the given `key`.
       If found then a reference to the corresponding `Value` is returned,
@@ -612,7 +612,7 @@ body:       |
       <img src="static/img/homework08_ht_search.png" class="img-responsive">
       </div>
 
-  5. `bool          table_remove(Table *m, const char *key)`
+  5. `bool          table_remove(Table *t, const char *key)`
 
       > This function removes the `Pair` with the given `key` from the `Table`
       and returns whether or not the removal was successful (ie. an `Pair`
@@ -627,7 +627,7 @@ body:       |
       previous `Pair` and the next `Pair` during removal.
       </div>
 
-  6. `void          table_format(Table *m, FILE *stream)`
+  6. `void          table_format(Table *t, FILE *stream)`
 
       > This function formats all the `Pairs` in the `Table` to the specified
       `stream`.
