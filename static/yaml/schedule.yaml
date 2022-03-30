@@ -296,6 +296,8 @@
         items:
           - name:       Slides
             link:       https://docs.google.com/presentation/d/14k4nEISBuFS0knY84aU1raTIDywHmm-SsBsXaSCcp80/edit?usp=sharing
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=11e9535e-89d2-46d5-a3d7-ae680126fe99
 
       - date:           Fri 04/01
         topics:         I/O
