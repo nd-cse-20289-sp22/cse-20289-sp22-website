@@ -905,10 +905,81 @@ body:       |
   For extra credit, you must make a **reasonable** contribution to one of the
   following open source projects:
 
-  1. [Kelpup](https://kelpup.github.io/)
-  2. [Raudio](https://raudio-project.github.io/)
-  3. [GnomeHub](https://gnome-hub.github.io/)
-  4. [PartyFish](https://partyfish.netlify.app/)
+  <div class="row">
+
+    <div class="col-md-6 thumbnail">
+      <div class="embed-responsive embed-responsive-16by9">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/_nU8nRAuMK0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+      <div>
+        <div style="padding: 5px;">
+          <div class="btn-toolbar pull-right">
+            <a href="https://kelpup.github.io" class="btn btn-primary btn-sm"><i class="fa fa-link"></i></a>
+            <a href="https://github.com/kelpup" class="btn btn-primary btn-sm"><i class="fa fa-github"></i></a>
+            <a href="https://discord.com/invite/kuksdwRVrG" class="btn btn-primary btn-sm"><i class="fa fa-comments"></i></a>
+          </div>
+          <dl>
+          <dt><h4><a href="https://kelpup.github.io">Kelpup</a></h4></dt>
+          </dl>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-md-6 thumbnail">
+      <div class="embed-responsive embed-responsive-16by9">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/hYbze6HkHIk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+      <div>
+        <div style="padding: 5px;">
+          <div class="btn-toolbar pull-right">
+            <a href="https://raudio-project.github.io/" class="btn btn-primary btn-sm"><i class="fa fa-link"></i></a>
+            <a href="https://github.com/raudio-project" class="btn btn-primary btn-sm"><i class="fa fa-github"></i></a>
+            <a href="https://discord.gg/FM78JTfU9X" class="btn btn-primary btn-sm"><i class="fa fa-comments"></i></a>
+          </div>
+          <dl>
+          <dt><h4><a href="https://raudio-project.github.io/">Raudio</a></h4></dt>
+          </dl>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-md-6 thumbnail">
+      <div class="embed-responsive embed-responsive-16by9">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/mS7pMxW_CtM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+      <div>
+        <div style="padding: 5px;">
+          <div class="btn-toolbar pull-right">
+            <a href="https://gnome-hub.github.io/" class="btn btn-primary btn-sm"><i class="fa fa-link"></i></a>
+            <a href="https://github.com/gnome-hub" class="btn btn-primary btn-sm"><i class="fa fa-github"></i></a>
+            <a href="https://discord.gg/9cHcHyf5e6" class="btn btn-primary btn-sm"><i class="fa fa-comments"></i></a>
+          </div>
+          <dl>
+          <dt><h4><a href="https://gnome-hub.github.io/">GnomeHub</a></h4></dt>
+          </dl>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-md-6 thumbnail">
+      <div class="embed-responsive embed-responsive-16by9">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/UCBAYMIhinM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+      <div>
+        <div style="padding: 5px;">
+          <div class="btn-toolbar pull-right">
+            <a href="https://partyfish.netlify.app/" class="btn btn-primary btn-sm"><i class="fa fa-link"></i></a>
+            <a href="https://github.com/partyfishgames" class="btn btn-primary btn-sm"><i class="fa fa-github"></i></a>
+            <a href="https://discord.com/invite/2WHbAQp8dp" class="btn btn-primary btn-sm"><i class="fa fa-comments"></i></a>
+          </div>
+          <dl>
+          <dt><h4><a href="https://partyfish.netlify.app/">PartyFish</a></h4></dt>
+          </dl>
+        </div>
+      </div>
+    </div>
+
+  </div>
 
   <div class="alert alert-success" markdown="1">
   **Note**: These are student projects from [CSE 40677 Open Source
