@@ -304,6 +304,8 @@
         items:
           - name:       Slides
             link:       https://docs.google.com/presentation/d/1Z217f_NGgyPY3ZjnNFOwaiszSaAEHQeSv_HbRmVbGbc/edit?usp=sharing
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=37b640e4-4c01-4416-af78-ae6a012efd2d
 
 - name:     "Files and Sockets"
   days:
