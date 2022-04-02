@@ -253,7 +253,7 @@ body:       |
           \_ Makefile               # This is the Makefile for building all the project artifacts
           \_ README.md              # This is the README file for recording your responses
           \_ bin                    # This contains the binary executables and test scripts
-            \_ loki.py              # This is the Python script that implements a HTTP server
+            \_ loki.py              # This is the Python script that implements an HTTP server
             \_ test_hammer.sh       # This is the shell script for testing the hammer and throw functions
             \_ test_request.sh      # This is the shell script for testing the Request structure
             \_ test_socket.sh       # This is the shell script for testing the socket functions
@@ -344,7 +344,7 @@ body:       |
 
   The `include/hammer.h`, `include/socket.h`, and `include/timestamp.h`
   [header] files contain function prototypes but do not introduce any new types
-  or [structs].
+  or [struct]s.
 
   More details on how to implement the functions declared in these [header]
   files is provided below.
@@ -686,8 +686,8 @@ body:       |
 
   2. `bool throw(const URL *url, size_t hammers, FILE *stream)`
 
-      > This function uses [fork] to first create `hammers` nummber of
-      [processes] where each child [process] performs a [HTTP] request using
+      > This function uses [fork] to first create `hammers` number of
+      [processes] where each child [process] performs an [HTTP] request using
       the `hammer` function on the given `url` and `stream`.  After throwing
       all the hammers, the parent [process] must [wait] on each child [process]
       and displays the total **elapsed time** for the whole function.  It will
