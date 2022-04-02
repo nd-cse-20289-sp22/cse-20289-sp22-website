@@ -766,8 +766,8 @@ body:       |
   There are three extra credit opportunities:
 
   1. Install a [Linux] distribution.
-  
-  2. Utilize [docker] containers.  
+
+  2. Utilize [docker] containers.
 
   3. Test drive [Kelpup].
 
@@ -797,6 +797,16 @@ body:       |
 
   <div class="thumbnail text-center">
     <img src="static/img/homework07-neofetch.png" class="img-responsive">
+  </div>
+
+  <div class="alert alert-danger" markdown="1">
+  #### <i class="fa fa-windows"></i> Windows Subsystem For Linux
+
+  Using **Windows Subsystem for Linux (WSL)** does not count for this **Guru
+  Point**.  As mentioned in class, and as noted previously, the point of this
+  extra credit opportunity is for you to experience installing an operating
+  system.  **WSL** circumvents that experience and thus is not sufficient.
+
   </div>
 
   There are a number of [Linux] distributions and which one you wish to install
@@ -911,7 +921,7 @@ body:       |
 
   Once it has been loaded, play around with it and take notes of any issues or
   problems you encountered.
-  
+
   <div class="alert alert-info" markdown="1">
   #### <i class="fa fa-check"></i> Verification
 
