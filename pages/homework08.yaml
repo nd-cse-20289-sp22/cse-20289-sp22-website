@@ -285,7 +285,7 @@ body:       |
 
   The use of `typedef` in this [header] file allow us to simply say `Table *t`
   rather than `struct Table *t`.  While there is some
-  [controversary](https://google.github.io/styleguide/cppguide.html#Aliases)
+  [controversy](https://google.github.io/styleguide/cppguide.html#Aliases)
   over whether or not this is good practice, we will use these [type
   definitions] to make our code clearer and more compact.
 
@@ -986,7 +986,7 @@ body:       |
   Software Development](https://www3.nd.edu/~pbui/teaching/cse.40677.sp22/).
   </div>
 
-  Each of the projects above have a [GitHub] repository that you can explore.
+  Each of the projects above has a [GitHub] repository that you can explore.
   To make a contribution, you will need to **fork** a repository and try to
   tackle one of the **issues** marked as "good first issue".
 
