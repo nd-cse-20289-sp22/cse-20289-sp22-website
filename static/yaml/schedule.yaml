@@ -323,6 +323,8 @@
         items:
           - name:       Slides
             link:       https://docs.google.com/presentation/d/1HxjYbz0DTVJqhLyaAxXgk1dG8cMM-1saaW1ssgBTRnk/edit?usp=sharing
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b9e251d9-2c6b-46d2-b3d2-ae6f01279e3b
 
       - date:           Fri 04/08
         topics:         HTTP Client / Server
