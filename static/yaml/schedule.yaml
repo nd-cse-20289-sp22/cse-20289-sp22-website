@@ -327,7 +327,7 @@
             link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b9e251d9-2c6b-46d2-b3d2-ae6f01279e3b
 
       - date:           Fri 04/08
-        topics:         HTTP Client / Server
+        topics:         HTTP Client
         items:
           - name:       Slides
             link:       https://docs.google.com/presentation/d/1HxjYbz0DTVJqhLyaAxXgk1dG8cMM-1saaW1ssgBTRnk/edit?usp=sharing
@@ -339,14 +339,14 @@
 - name:     "Processes"
   days:
       - date:           Mon 04/11
-        topics:         Processes
+        topics:         HTTP Server
         assignment:     Reading 12
         items:
           - name:       Slides
-            link:       https://docs.google.com/presentation/d/10uVaIDEBqunj5A63TRk12CrToIkUKtdjwHkHIL52WV4/edit?usp=sharing
+            link:       https://docs.google.com/presentation/d/1HxjYbz0DTVJqhLyaAxXgk1dG8cMM-1saaW1ssgBTRnk/edit?usp=sharing
 
       - date:           Wed 04/13
-        topics:         Signals
+        topics:         Processes
         items:
           - name:       Slides
             link:       https://docs.google.com/presentation/d/10uVaIDEBqunj5A63TRk12CrToIkUKtdjwHkHIL52WV4/edit?usp=sharing
@@ -354,20 +354,20 @@
       - date:           Fri 04/15
         topics:         Easter
 
-- name:     "Servers"
+- name:     "Server"
   days:
       - date:           Mon 04/18
         topics:         Easter
 
       - date:           Wed 04/20
-        topics:         Concurrent HTTP Server
+        topics:         Signals
         assignment:     Reading 13
         items:
           - name:       Slides
             link:       https://docs.google.com/presentation/d/10uVaIDEBqunj5A63TRk12CrToIkUKtdjwHkHIL52WV4/edit?usp=sharing
 
       - date:           Fri 04/22
-        topics:         VPS
+        topics:         Concurrent HTTP Server
         items:
           - name:       Slides
             link:       https://docs.google.com/presentation/d/1aJ5PpSoseiD6fyB3nNLueB_zonJ-pjbEl9dRq7BASME/edit?usp=sharing
