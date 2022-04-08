@@ -27,7 +27,7 @@
     },
     "q04": {
         "type": "multiple",
-        "question": "\n<p>In <tt>check_file</tt>, the function receives an <tt>options</tt>\nargument.  Which of the following are valid ways to check the\n<tt>quiet</tt> attribute of the <tt>options</tt> (select all that\napply)?</p>\n",
+        "question": "\n<p>In <tt>check_file</tt>, the function receives an <tt>options</tt>\nargument.  Which of the following are valid ways to check the\n<tt>count</tt> attribute of the <tt>options</tt> (select all that\napply)?</p>\n",
         "responses": {
             "a": "<tt>options.count</tt>",
             "b": "<tt>options->count</tt>",
