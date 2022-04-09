@@ -331,6 +331,8 @@
         items:
           - name:       Slides
             link:       https://docs.google.com/presentation/d/1HxjYbz0DTVJqhLyaAxXgk1dG8cMM-1saaW1ssgBTRnk/edit?usp=sharing
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2c8ff440-c4f3-4d48-be4a-ae71012c5c5a
 
       - date:           Sat 04/09
         topics:         Detecting Duplicates
@@ -367,7 +369,7 @@
             link:       https://docs.google.com/presentation/d/10uVaIDEBqunj5A63TRk12CrToIkUKtdjwHkHIL52WV4/edit?usp=sharing
 
       - date:           Fri 04/22
-        topics:         Concurrent HTTP Server
+        topics:         VPS / Concurrent HTTP Server
         items:
           - name:       Slides
             link:       https://docs.google.com/presentation/d/1aJ5PpSoseiD6fyB3nNLueB_zonJ-pjbEl9dRq7BASME/edit?usp=sharing
