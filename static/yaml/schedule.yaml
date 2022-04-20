@@ -371,6 +371,8 @@
         items:
           - name:       Slides
             link:       https://docs.google.com/presentation/d/10uVaIDEBqunj5A63TRk12CrToIkUKtdjwHkHIL52WV4/edit?usp=sharing
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=72e79e43-8271-4064-b1d7-ae7d012bbcd8
 
       - date:           Fri 04/22
         topics:         VPS / Concurrent HTTP Server
