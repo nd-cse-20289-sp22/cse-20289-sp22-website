@@ -379,6 +379,8 @@
         items:
           - name:       Slides
             link:       https://docs.google.com/presentation/d/1aJ5PpSoseiD6fyB3nNLueB_zonJ-pjbEl9dRq7BASME/edit?usp=sharing
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=65ee68b3-9720-404f-93de-ae7f01293031
 
       - date:           Sat 04/23
         topics:         "Thor's Hammer"
