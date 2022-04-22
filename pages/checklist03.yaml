@@ -791,6 +791,6 @@ body:       |
     [URL]:              https://en.wikipedia.org/wiki/URL
     [sockets]:          https://en.wikipedia.org/wiki/Network_socket
     [HTTP]:             https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol
-    [http_client.c]:    https://github.com/nd-cse-20289-sp21/cse-20289-sp21-examples/blob/master/lecture20/http_client.c
+    [http_client.c]:    https://github.com/nd-cse-20289-sp22/cse-20289-sp22-examples/blob/master/lecture21/http_client.c
     [port scanner]:     https://en.wikipedia.org/wiki/Port_scanner
     [Data Representation]: https://en.wikipedia.org/wiki/Data_(computing)
