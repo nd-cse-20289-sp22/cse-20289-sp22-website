@@ -392,6 +392,8 @@
         items:
           - name:       Slides
             link:       https://docs.google.com/presentation/d/1pZxDkjxVpfXGOJvM2cKOMtI3kD-ydwQDl0mJzXsJwnQ/edit?usp=sharing
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6d403dcc-7065-47ba-aaa7-ae82012d3ce3
           - name:       Checklist 03
             link:       checklist03.html
 
